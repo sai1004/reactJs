@@ -12,3 +12,5 @@ class ReactComp extends Component {
         )
     }
 }
+
+export default ReactComp;
