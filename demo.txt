@@ -1,1 +1,9 @@
+
+    sudo npm i -g create-react-app
+
+    create-react-app myApp
+
+    cd myApp
+
+
 https://www.freecodecamp.org/news/react-js-for-beginners-props-state-explained/
