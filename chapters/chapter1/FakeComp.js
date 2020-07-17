@@ -7,21 +7,20 @@ class FakeComp extends Component {
         name: 'Mukul'
     }
 
-
     render() {
         return (
-            <div> 
+            <div>
 
                 <h1> Hello I Am {this.state.name}! </h1>
-                
+
             </div>
         )
     }
 }
 
-const FakeFunction = () => { 
-    let name = 'Mukul'; 
-    console.log(`Hey ${name}`); 
-  }
+const FakeFunction = () => {
+    let name = 'Mukul';
+    console.log(`Hey ${name}`);
+}
 
 export default FakeComp;
