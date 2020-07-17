@@ -1,0 +1,11 @@
+.todo-item {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  align-items: center;
+}
+
+.contact-card img {
+  height: 200px;
+  width: 300px;
+}
